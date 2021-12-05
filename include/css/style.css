@@ -1,0 +1,10 @@
+body{
+    background-image: url(../../images/bgimage.jpg);
+}
+
+.label_photo {
+    cursor: pointer  im !important; 
+}
+.label_photo:hover {
+    cursor: pointer  im !important; 
+}
